@@ -1,0 +1,207 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@500&display=swap');
+
+.navbar1 {
+    text-align: center;
+    font-size: xx-large;
+    font-family: fantasy;
+    color: white;
+    background-color: rgb(0 0 0 / 27%);
+}
+.navbar-expand-lg li{
+    margin: 0 0 0 0;
+    padding: 2px 32px 0px 6px;
+    
+}
+
+.navbar-expand-lg{
+    background-color: rgb(0 0 0 / 27%);
+}
+.navbar-expand-lg a{
+    color: white;
+}
+.navbar-expand-lg li a:hover{
+    color: green;
+}
+.text-center1{
+    background-color: transparent;
+    color: white;
+   
+    margin-top: 5rem;
+   
+    font-family:  "Poppins", Sans-serif;
+    font-weight: 500;
+    
+    
+}
+.text11 p{
+    font-family:  "Poppins", Sans-serif;
+    color: white;
+}
+.text-center1 h1{
+    font-size: 9vh;
+    font-family: monospace;
+
+}
+.text11{
+    max-width: 1240px;
+    margin: auto;
+}
+header{
+    background: linear-gradient(rgba(0, 0, 0, 0.4), rgba(0, 0, 0, 0.60)), url(img/How-to-Start-Career-in-Virtual-Reality.jpg);
+    height: 120vh;
+   background-repeat: no-repeat;
+   background-size: cover;
+   background-position: center;
+
+
+}
+.for-flexc{
+    display: flex;
+    justify-content: center;
+}
+.sect-11{
+    background: linear-gradient(rgba(0, 0, 0, 0.4), rgba(0, 0, 0, 0.70)), url(img/pexels-tom-swinnen-1309766.jpg);
+    height: 90vh;
+   background-repeat: no-repeat;
+   background-size: cover;
+   background-position: center;
+   margin: 7px 0 0 0;
+}
+.card1{
+    color: white;
+    padding: 0 17px 0 0;
+    margin: 9rem 0 0 0;
+    
+}
+.card1 h5{
+    font-family: monospace;
+    
+    margin: 0 0 12px 0;
+}
+.card1 p{
+    font-family:  "Poppins", Sans-serif;
+}
+.for-flex2{
+    display: flex;
+}
+
+
+
+.marketing-site-hero {
+    background: linear-gradient(rgba(0, 0, 0, 0.4), rgba(0, 0, 0, 0.80)), url(img/pexels-tatiana-syrikova-3975563.jpg);
+
+    
+    height: 45vh;
+    background-size: cover;
+    display: -webkit-flex;
+    display: -ms-flexbox;
+    display: flex;
+    -webkit-align-items: center;
+        -ms-flex-align: center;
+            align-items: center;
+            width: 205vh;
+            margin: -16px 0 0;
+  }
+  .marketing-site-hero1{
+
+    background: linear-gradient(rgba(0, 0, 0, 0.4), rgba(0, 0, 0, 0.80)), url(img/pexels-icsa-1709003.jpg);
+
+    
+    height: 50vh;
+    background-size: cover;
+    display: -webkit-flex;
+    display: -ms-flexbox;
+    display: flex;
+    -webkit-align-items: center;
+        -ms-flex-align: center;
+            align-items: center;
+            width: 205vh;
+            margin: 4px 0 0;
+  }
+  .marketing-site-hero-content1 {
+    max-width: 75rem;
+    margin: 0 auto;
+    padding-right: 59%;
+    color: white;
+  }
+  
+  .marketing-site-hero-content1 h1 {
+    font-size: 32px;
+  }
+  
+  .marketing-site-hero-content1 .button.round {
+    border-radius: 5000px;
+    text-transform: uppercase;
+    font-size: 12px;
+    margin-bottom: 0;
+  }
+  .marketing-site-hero2{
+
+    background: linear-gradient(rgba(0, 0, 0, 0.4), rgba(0, 0, 0, 0.80)), url(img/pexels-cottonbro-studio-7578805.jpg);
+
+    
+    height: 45vh;
+    background-size: cover;
+    display: -webkit-flex;
+    display: -ms-flexbox;
+    display: flex;
+    -webkit-align-items: center;
+        -ms-flex-align: center;
+            align-items: center;
+            width: 205vh;
+            margin: 4px 0 0;
+  }
+  .marketing-site-hero-content2 {
+    max-width: 75rem;
+    margin: 0 auto;
+    color:white;
+    padding-left: 53%;
+
+  }
+  
+  .marketing-site-hero-content1 h1 {
+    font-size: 32px;
+  }
+  
+  .marketing-site-hero-content2 .button.round {
+    border-radius: 5000px;
+    text-transform: uppercase;
+    font-size: 12px;
+    margin-bottom: 0;
+  }
+  .sect-2{
+    margin: 0;
+
+  }
+  @media screen and (min-width: 40em) {
+    .marketing-site-hero {
+      background-position: center center;
+    }
+  }
+  
+  .marketing-site-hero-content {
+    max-width: 75rem;
+    margin: 0 auto;
+    padding-left: 5%;
+    padding-right: 5%;
+    color: white;
+  }
+  
+  .marketing-site-hero-content h1 {
+    font-size: 32px;
+  }
+  
+  .marketing-site-hero-content .button.round {
+    border-radius: 5000px;
+    text-transform: uppercase;
+    font-size: 12px;
+    margin-bottom: 0;
+  }
+  
+  @media screen and (min-width: 40em) {
+    .marketing-site-hero-content {
+      padding-left: 50%;
+    }
+  }
+  
+  

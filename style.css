@@ -47,7 +47,7 @@
     margin: auto;
 }
 header{
-    background: linear-gradient(rgba(0, 0, 0, 0.4), rgba(0, 0, 0, 0.60)), url(img/How-to-Start-Career-in-Virtual-Reality.jpg);
+    background: linear-gradient(rgba(0, 0, 0, 0.4), rgba(0, 0, 0, 0.60)), url("./img/How-to-Start-Career-in-Virtual-Reality.jpg");
     height: 120vh;
    background-repeat: no-repeat;
    background-size: cover;
@@ -88,7 +88,7 @@ header{
 
 
 .marketing-site-hero {
-    background: linear-gradient(rgba(0, 0, 0, 0.4), rgba(0, 0, 0, 0.80)), url(img/pexels-tatiana-syrikova-3975563.jpg);
+    background: linear-gradient(rgba(0, 0, 0, 0.4), rgba(0, 0, 0, 0.80)), url("./img/pexels-tatiana-syrikova-3975563.jpg");
 
     
     height: 45vh;
@@ -104,7 +104,7 @@ header{
   }
   .marketing-site-hero1{
 
-    background: linear-gradient(rgba(0, 0, 0, 0.4), rgba(0, 0, 0, 0.80)), url(img/pexels-icsa-1709003.jpg);
+    background: linear-gradient(rgba(0, 0, 0, 0.4), rgba(0, 0, 0, 0.80)), url("./img/pexels-icsa-1709003.jpg");
 
     
     height: 50vh;
@@ -137,7 +137,7 @@ header{
   }
   .marketing-site-hero2{
 
-    background: linear-gradient(rgba(0, 0, 0, 0.4), rgba(0, 0, 0, 0.80)), url(img/pexels-cottonbro-studio-7578805.jpg);
+    background: linear-gradient(rgba(0, 0, 0, 0.4), rgba(0, 0, 0, 0.80)), url("./img/pexels-cottonbro-studio-7578805.jpg");
 
     
     height: 45vh;
